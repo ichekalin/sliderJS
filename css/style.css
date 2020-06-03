@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+img {
+	width: 15%;
+}
+
+.active {
+	border: 2px solid #84693b;
+	padding: 5px;
+}
+
+.btn-info {
+	background-color: #84693b;
+}
